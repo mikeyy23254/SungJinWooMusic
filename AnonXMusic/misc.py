@@ -25,7 +25,6 @@ XCB = [
     ".",
     "com",
     ":",
-    "git",
     "heroku",
     "push",
     str(config.HEROKU_API_KEY),
