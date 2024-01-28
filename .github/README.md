@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+Yumeko+ダ+Jabami+」+──;An+Advanced+Group+Management+Bot.&width=600&height=180">
+</div>
+
+
+
 <h2 align="center">
     ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
 </h2>
