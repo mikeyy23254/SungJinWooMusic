@@ -30,6 +30,10 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
+#RandiRona
+MANAGEMENT_BOT = int(getenv("MANAGEMENT_BOT", @Sung_Jin_Woo_Bot))
+
+
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/AnonymousX1025/AnonXMusic",
