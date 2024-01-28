@@ -1,13 +1,7 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+Yumeko+ダ+Jabami+」+──;An+Advanced+Group+Management+Bot.&width=600&height=180">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+Cha+HaeIn+Music+」+──;An+Advanced+Group+Music+Bot.&width=600&height=180">
 </div>
-
-
-
-<h2 align="center">
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
-</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
