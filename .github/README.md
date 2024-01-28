@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+  <img src="https://telegra.ph/file/8105ec1de73891183c639.jpg">
 </p>
 
 <p align="center">
