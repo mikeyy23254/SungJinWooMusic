@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ffd700&center=true&lines=──+「+Sung+JinWoo+Music+」+──;An+Advanced+Group+Music+Bot.&width=600&height=180">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffd700&center=true&lines=──+「+Sung+Jin-Woo+Music+」+──;An+Advanced+Group+Music+Bot.&width=600&height=180">
 </div>
 
 <p align="center">
@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Shauryanoobhai/ChaHaeInMusic/stargazers"><img src="https://img.shields.io/github/stars/Shauryanoobhai/ChaHaeInMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Shauryanoobhai/ChaHaeInMusic/network/members"> <img src="https://img.shields.io/github/forks/Shauryanoobhai/ChaHaeInMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Shauryanoobhai/ChaHaeInMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Shauryanoobhai/SungJinWooMusic/stargazers"><img src="https://img.shields.io/github/stars/Shauryanoobhai/ChaHaeInMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Shauryanoobhai/SungJinWooMusic/network/members"> <img src="https://img.shields.io/github/forks/Shauryanoobhai/SungJinWooMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Shauryanoobhai/SungJinWooMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/Shauryanoobhai/ChaHaeInMusic/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/Shauryanoobhai/ChaHaeInMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Shauryanoobhai/SungJinWooMusic/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/Shauryanoobhai/SungJinWooMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -23,13 +23,13 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Shauryanoobhai/ChaHaeInMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Shauryanoobhai/SungJinWooMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Shauryanoobhai/ChaHaeInMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/Shauryanoobhai/SungJinWooMusic/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -41,7 +41,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/Shauryanoobhai/ChaHaeInMusic && cd AnonXMusic`
+`git clone https://github.com/Shauryanoobhai/SungJinWooMusic && cd AnonXMusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
