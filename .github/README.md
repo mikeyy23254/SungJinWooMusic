@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ffd700&center=true&lines=──+「+Cha+HaeIn+Music+」+──;An+Advanced+Group+Music+Bot.&width=600&height=180">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffd700&center=true&lines=──+「+Sung+JinWoo+Music+」+──;An+Advanced+Group+Music+Bot.&width=600&height=180">
 </div>
 
 <p align="center">
